@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab70ab87-84d5-47b5-8ab1-12f9a4f8cc21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2/src/main/java/app/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/src/main/java/hiber/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/src/main/java/web/Service/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/src/main/java/web/controller/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/src/main/java/web/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/src/webapp/WEB-INF/pages/cars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/src/main/java/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/2/src/main/java/app/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/src/main/java/app/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/2/src/main/java/app/model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/src/main/java/app/model/AnimalsCage.java" beforeDir="false" afterPath="$PROJECT_DIR$/2/src/main/java/app/model/AnimalsCage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/src/main/java/app/model/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/2/src/main/java/app/model/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/src/test/java/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/2/src/test/java/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/src/main/java/koschei/models/Deth8.java" beforeDir="false" afterPath="$PROJECT_DIR$/3/src/main/java/koschei/models/Deth8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/src/main/java/koschei/models/Duck5.java" beforeDir="false" afterPath="$PROJECT_DIR$/3/src/main/java/koschei/models/Duck5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/src/main/java/koschei/models/Egg6.java" beforeDir="false" afterPath="$PROJECT_DIR$/3/src/main/java/koschei/models/Egg6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/src/main/java/koschei/models/Needle7.java" beforeDir="false" afterPath="$PROJECT_DIR$/3/src/main/java/koschei/models/Needle7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/src/main/java/koschei/models/Rabbit4.java" beforeDir="false" afterPath="$PROJECT_DIR$/3/src/main/java/koschei/models/Rabbit4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/main/java/hiber/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/4/src/main/java/hiber/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/main/java/hiber/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/4/src/main/java/hiber/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/main/java/hiber/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/4/src/main/java/hiber/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/4/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/main/java/hiber/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/4/src/main/java/hiber/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/main/java/hiber/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/4/src/main/java/hiber/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/4/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/4/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/src/main/java/web/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/5/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/src/main/java/web/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/6/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MonuaUSB&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VanderDT/Task-6.git&quot;,
+    &quot;accountId&quot;: &quot;42170327-5739-425d-9a71-6e46365783d2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nBBBGggyn9vQpqiqGZSuxd2JMm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/zadania/10 mod/5&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab70ab87-84d5-47b5-8ab1-12f9a4f8cc21" name="Changes" comment="" />
+      <created>1728436452307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728436452307</updated>
+      <workItem from="1728436453362" duration="49000" />
+      <workItem from="1728658737486" duration="42000" />
+      <workItem from="1728664266251" duration="47000" />
+      <workItem from="1728694659762" duration="31000" />
+      <workItem from="1728714398109" duration="78000" />
+      <workItem from="1728851388599" duration="7000" />
+      <workItem from="1728851496861" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
